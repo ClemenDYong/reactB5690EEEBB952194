@@ -1,7 +1,7 @@
-# Code of Conduct
-
+New lists of shoes # Code of Conduct
+B5690EEEBB952194
 ## Our Pledge
-
+#31853
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
